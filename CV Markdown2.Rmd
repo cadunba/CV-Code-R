@@ -1,0 +1,132 @@
+---
+header-includes:
+   - \usepackage{hyperref,graphicx}
+output: pdf_document
+urlcolor: blue
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\definecolor{darkgray}{rgb}{0.5, 0.5, 0.5}
+\begin{center}
+\color{darkgray}
+\Huge{Curriculum Vitae}
+\color{black}
+
+\huge\textbf{Cole Dunbar}
+\end{center}
+\begin{center}
+\textbf{Email:} cadunba42@gmail.com | \textbf{Phone:} (828) 409-1856 | \href{https://www.linkedin.com/in/cole-dunbar-197382b5}{\includegraphics[width=0.09\textwidth]{linkedlogo}}
+\end{center}
+
+\vspace{10pt}
+\linespread{0}
+\LARGE\textbf{Education}
+\linespread{1}
+
+\hrulefill
+\begin{itemize}\large{}
+  \item \large\textbf{North Carolina State University} \small{(Raleigh, NC)} | \large\textbf{Fall 2014-Fall 2017}
+  \begin{itemize}
+    \item \normalsize Genetics, B.S.
+    \item GPA: 3.706/4.0
+    \item Magna Cum Laude
+  \end{itemize}  
+\end{itemize}
+
+\vspace{10pt}
+\linespread{0}
+\LARGE\textbf{Academic Honors}
+\linespread{1}
+
+\hrulefill
+\begin{itemize}\large{}
+  \item \large\textbf{Dean's List at North Carolina State University} | \large\textbf{Spring 2015-Fall 2017} 
+  \item \large\textbf{Kelman Research Scholar} | \large\textbf{Summer 2017}
+\end{itemize}
+
+\vspace{10pt}
+\linespread{0}
+\LARGE\textbf{Research}
+\linespread{1}
+
+\hrulefill
+\begin{itemize}\large{}
+  \item \large\textbf{Undergraduate Research} \small{(NC State)} | \large\textbf{Spring 2017}  
+  \begin{itemize}
+    \item \normalsize"Effects of sim-silencing and Diet on the Activity of \textit{Drosophila melanogaster}"
+  \end{itemize}
+  \item \large\textbf{Summer Research} \small{(Kelman Scholars Program at NC State)} | \large\textbf{Summer 2017}
+  \begin{itemize}
+    \item \normalsize\textbf{Cole A. Dunbar}, Chunying Li, Eric L. Davis, Casey Ruark, and Tim L. Sit: "Plant Cell Gene Expression in Response to Effector Proteins from Plant-parasitic Nematodes"
+    \item Poster \href{https://photos.app.goo.gl/KzmNtE5T7z1iGfZE3}{(link)} was presented at the NC State Undergraduate Symposium. \href{https://plantpath.cals.ncsu.edu/2017/08/09/kelman-scholars-present-research-at-the-16th-annual-nc-state-university-summer-undergraduate-research-symposium/}{more info} 
+  \end{itemize}
+\end{itemize}
+
+
+\vspace{10pt}
+\linespread{0}
+\LARGE\textbf{Work}
+\linespread{1}
+
+\hrulefill
+
+\begin{itemize}\large{}
+  \item \large\textbf{Lab Technician} \small{(Plant Pathology Department at NC State)} | \large\textbf{Fall 2016-Present}  
+  \begin{itemize}
+    \item \normalsize Work as a laboratory technician in Dr. Eric Davis's plant-parasitic nematode research lab.
+    \item Primary areas of research involve Root-Knot and Cyst nematodes and focus on determining the functions of effector proteins that plant-parasitic nematodes secrete into host plants.
+    \item Perform basic lab work including:
+      \begin{itemize}
+        \item PCR, Q-PCR, transformations, plant infiltrations, gel electrophoresis, and nematode extractions.
+      \end{itemize}
+      \item Other work involves the greenhouse upkeep of plant assays from companies testing seed coatings developed to protect crops from nematode infection. 
+  \end{itemize}
+  \item \large\textbf{Tech Advisor} \small{(Muscarelli Auction Company in Statesville, NC)} | \large\textbf{Summer 2015-Fall 2016}  
+  \begin{itemize}
+    \item \normalsize Ensured the smooth running of the Auctionflex program used for all transactions during auctions 
+    \item Required a broad technological skill set specifically the ability to effectively troubleshoot. 
+  \end{itemize}
+\end{itemize}
+
+
+\vspace{10pt}
+\linespread{0}
+\LARGE\textbf{Additional Skills}
+\linespread{1}
+
+\hrulefill
+\begin{itemize}\large{}
+  \item Deep understanding of genetics and biological mechanisms involved 
+  \item	Problem solver 
+  \item Analytical thinker 
+  \item Detail-oriented  
+  \item Experienced collaborater in a lab setting 
+  \item 
+  \end{itemize}  
+
+
+\vspace{10pt}
+\linespread{0}
+\LARGE\textbf{Oraganizational Affiliations}
+\linespread{1}
+
+\hrulefill
+\begin{itemize}\large{}
+  \item \large\textbf{College Service Project- Trip Coordinator} \small{(Raleigh, NC)} | \large\textbf{2015-2016}
+  \begin{itemize}
+    \item	Responsible for the planning and execution of all trips.
+    \item	Volunteer regularly in a mission to make homes warmer, safer, and drier.
+  \end{itemize}
+\end{itemize}  
+\vspace{10pt}
+\linespread{0}
+\LARGE\textbf{References}
+\linespread{1}
+
+\hrulefill
+\begin{itemize} \large{}
+  \item \large{Available upon request}
+\end{itemize}
+  
